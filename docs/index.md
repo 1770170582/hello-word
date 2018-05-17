@@ -1,2 +1,2 @@
 # Welcome
-[Alt text](https://github.com/yyyhub/hello-word/edit/master/docs/pagetest.html)
+[Alt text](https://github.com/yyyhub/hello-word/pagetest.html)
