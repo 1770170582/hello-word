@@ -1,2 +1,2 @@
 # Welcome
-![Alt text](testpage.md)
+[Alt text](./testpage.md)
